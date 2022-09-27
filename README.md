@@ -1,0 +1,1 @@
+This repository was used whil learning how to use Docker inside of a CI workflow. Git Actions were used in order to test code and deploy onto AWS EBS. EBS environment communicated with an AWS RDS Postgres database and a AWS EC Redis cache. All AWS systems has since been deleted.
